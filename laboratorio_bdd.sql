@@ -1,0 +1,3 @@
+use aceleracion;
+
+show tables;
